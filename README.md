@@ -24,3 +24,4 @@ Computer Engineering Student
 * ✉️  You can contact me at [waranya.kaeww@ku.th](mailto:waranya.kaeww@ku.th)
 * 👥  I'm looking to collaborate on Student Projects, Wed Develo\[ment, and AI Projects
 * 💬  Ask me about I'm always larning something new!
+![Profile Views](https://komarev.com/ghpvc/?username=waranakaew-creator&color=green)
