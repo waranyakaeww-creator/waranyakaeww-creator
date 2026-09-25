@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi 👋 My name is iaim
+=====================
+
+Computer Engineering Student
+----------------------------
+
+* 🌍  I'm based in Thailand
+* ✉️  You can contact me at [waranya.kaeww@ku.th](mailto:waranya.kaeww@ku.th)
+* 👥  I'm looking to collaborate on Student Projects, Wed Develo\[ment, and AI Projects
+* 💬  Ask me about I'm always larning something new!
